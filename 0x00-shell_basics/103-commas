@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -A1v | awk '{printf "%s%s", $0, NR%2 ? ", " : "\n"}' | sed 's#\(.*\), $#\1#'
