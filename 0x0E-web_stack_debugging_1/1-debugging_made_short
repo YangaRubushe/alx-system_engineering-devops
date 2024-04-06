@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
-# im comment :)
+# Comment: This script starts a Python HTTP server in the background to serve content on port 80.
+
+# Start Python HTTP server to serve content from /usr/share/nginx/html directory
 sudo python3 -m http.server --directory /usr/share/nginx/html 80 > /dev/null 2>&1 &
