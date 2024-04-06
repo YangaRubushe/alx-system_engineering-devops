@@ -1,4 +1,4 @@
-i#!/usr/bin/env bash
+#!/usr/bin/env bash
 #patching up the nginx to listen on port 80
 # delete the /etc/nginx/sites-enabled/default and create a symlink
 
