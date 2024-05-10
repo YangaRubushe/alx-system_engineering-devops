@@ -3,7 +3,7 @@
 
 ## Concepts
 
-For this project, we focus on the concept of ![on-call](https://intranet.alxswe.com/concepts/39) responsibilities and postmortems in software engineering.
+For this project, we focus on the concept of on-call responsibilities and postmortems in software engineering.
 
 ## Background Context
 
